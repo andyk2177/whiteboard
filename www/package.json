@@ -1,0 +1,10 @@
+{
+  "name": "highlight-www",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "andyk91",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^8.0.3"
+  }
+}
